@@ -28,11 +28,10 @@ const Prshhnt = {
 <!-- GitHub Stats -->
 <h2>📈 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prshhnt&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Prshhnt&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prshhnt&layout=compact&theme=tokyonight" />
-</p>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prshhnt&show_icons=true&hide_title=true&count_private=true&theme=radical&rank_icon=github)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prshhnt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
